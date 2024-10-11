@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Your Name], a passionate undergraduate student diving deep into the realms of Artificial Intelligence and Machine Learning. ⚡️🚀
+👋 Hi there! I’m Abhishek Pandey, B.Tech student specializing in Computer Science and Engineering with a focus on Artificial Intelligence at ASE, Coimbatore. Passionate about leveraging technology to solve real-world problems, I enjoy diving deep into Machine Learning/Deep Learning, Data Science, and Artificial Intelligence. ⚡️🚀
 
 ## Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/abhishek-pandey-075854292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
