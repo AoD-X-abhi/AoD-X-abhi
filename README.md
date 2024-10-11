@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhishek Student in Amrota Vishwa Vidyapeetham persuing Btech in Computer Science Engineering in Artificial Intelligence........
 👀 I’m interested in Machine Learning (ML), Deep Learning (DL), and Artificial Intelligence (AI).
 🌱 I’m currently learning advanced AI techniques, including predictive modeling [ML\DL]. And also Data Analysis.
-💞️ I’m looking to collaborate on projects related to AI-driven prediction models, landslide prediction, and any exciting ML/DL challenges.
+💞️ I’m looking to collaborate on projects related to AI-driven prediction models and any exciting ML/DL challenges.
 😄 Pronouns: He/Him
 ⚡ Fun fact: I’m passionate about applying AI to solve real-world problems.
 
