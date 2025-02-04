@@ -4,7 +4,7 @@
 
 ## 💻 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/abhishek-pandey-075854292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [Instagram]([https://www.instagram.com/invites/contact/?igsh=cpkkzv2maydi&utm_content=kafi095](https://www.instagram.com/0_abhi_shek_08?utm_source=qr&igsh=MXFjeTFtM2FjdW5lcw==))
+- [Instagram](https://www.instagram.com/0_abhi_shek_08?utm_source=qr&igsh=MXFjeTFtM2FjdW5lcw==)
 - Email: wizardb2k@gmail.com 📧
 
 Feel free to reach out if you're into AI/ML discussions, collaborations, or just a friendly chat! Let's push the boundaries of intelligence together. 🌟🤝
