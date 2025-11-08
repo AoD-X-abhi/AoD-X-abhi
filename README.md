@@ -34,9 +34,7 @@ Feel free to reach out if you're into AI/ML discussions, collaborations, or just
 ---
 
 ⭐️ If you like this profile, star my repos!  
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AoD-X-abhi&label=PROFILE+VIEWS&color=brightgreen&style=flat-square" alt="Profile Views"/>
-</div>
+
 
 
 <!---
