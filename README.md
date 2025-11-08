@@ -24,6 +24,21 @@ Feel free to reach out if you're into AI/ML discussions, collaborations, or just
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AoD-X-abhi&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AoD-X-abhi&theme=dark" alt="GitHub Streak"/>
+</div>
+
+---
+
+⭐️ If you like this profile, star my repos!  
+<image-card alt="Visitor Count" src="https://komarev.com/ghpvc/?username=AoD-X-abhi&color=brightgreen" ></image-card>
+
+## 😄 Fun Facts
+- Coffee-fueled coder ☕  
+- Favorite AI Movie: Ex Machina  
+- Hobby: Building mini AI bots for fun  
 
 <!---
 AoD-X-abhi/AoD-X-abhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
