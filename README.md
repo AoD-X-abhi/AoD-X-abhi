@@ -4,7 +4,7 @@
 👋 Hi there! I’m Abhishek Pandey, B.Tech student specializing in Computer Science and Engineering with a focus on Artificial Intelligence at ASE, Coimbatore. Passionate about leveraging technology to solve real-world problems, I enjoy diving deep into Machine Learning/Deep Learning, Data Science, and Artificial Intelligence. ⚡️🚀
 
 ## 💻 Let's Connect:
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?igsh=cpkkzv2maydi&utm_content=kafi095)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhishekp_2004/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-pandey-075854292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wizardb2k@gmail.com)
 [![X Twitter](https://img.shields.io/badge/X-Follow_me-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AoD_XAI)
