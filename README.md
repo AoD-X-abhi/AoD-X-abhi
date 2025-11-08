@@ -11,6 +11,12 @@
 
 Feel free to reach out if you're into AI/ML discussions, collaborations, or just a friendly chat! Let's push the boundaries of intelligence together. 🌟🤝
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AoD-X-abhi&theme=dark" alt="GitHub Streak"/>
+</div>
+
 ## Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-AI-4B9CD3?style=for-the-badge&logo=artificialintelligence&logoColor=white)
@@ -24,16 +30,6 @@ Feel free to reach out if you're into AI/ML discussions, collaborations, or just
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://skyline.github.com/AoD-X-abhi/2025">
-    <img src="https://skyline.github.com/AoD-X-abhi/2025" alt="GitHub Skyline 2025" width="100%"/>
-  </a>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AoD-X-abhi&theme=dark" alt="GitHub Streak"/>
-</div>
 
 ---
 
