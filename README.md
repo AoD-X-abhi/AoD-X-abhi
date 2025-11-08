@@ -25,8 +25,13 @@ Feel free to reach out if you're into AI/ML discussions, collaborations, or just
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AoD-X-abhi&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <a href="https://skyline.github.com/AoD-X-abhi/2025">
+    <img src="https://skyline.github.com/AoD-X-abhi/2025" alt="GitHub Skyline 2025" width="100%"/>
+  </a>
+</div>
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AoD-X-abhi&theme=dark" alt="GitHub Streak"/>
 </div>
 
