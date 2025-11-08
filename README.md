@@ -34,12 +34,8 @@ Feel free to reach out if you're into AI/ML discussions, collaborations, or just
 ---
 
 ⭐️ If you like this profile, star my repos!  
-<image-card alt="Visitor Count" src="https://komarev.com/ghpvc/?username=AoD-X-abhi&color=brightgreen" ></image-card>
+![Visitor Count](https://komarev.com/ghpvc/?username=AoD-X-abhi&color=brightgreen)
 
-## 😄 Fun Facts
-- Coffee-fueled coder ☕  
-- Favorite AI Movie: Ex Machina  
-- Hobby: Building mini AI bots for fun  
 
 <!---
 AoD-X-abhi/AoD-X-abhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
