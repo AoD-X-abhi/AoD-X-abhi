@@ -7,6 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?igsh=cpkkzv2maydi&utm_content=kafi095)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-pandey-075854292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wizardb2k@gmail.com)
+[![X Twitter](https://img.shields.io/badge/X-Follow_me-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AoD_XAI)
 
 Feel free to reach out if you're into AI/ML discussions, collaborations, or just a friendly chat! Let's push the boundaries of intelligence together. 🌟🤝
 
