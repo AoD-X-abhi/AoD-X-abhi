@@ -17,6 +17,13 @@ Feel free to reach out if you're into AI/ML discussions, collaborations, or just
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AoD-X-abhi&theme=dark" alt="GitHub Streak"/>
 </div>
 
+## 📊 GitHub Activity Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AoD-X-abhi&theme=react-dark&hide_border=true&area=true&custom_title=AoD-X-abhi%27s%20Contribution%20Graph" width="900">
+</p>
+
+
 ## Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-AI-4B9CD3?style=for-the-badge&logo=artificialintelligence&logoColor=white)
