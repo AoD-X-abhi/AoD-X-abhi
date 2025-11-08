@@ -20,6 +20,12 @@ Feel free to reach out if you're into AI/ML discussions, collaborations, or just
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-AI-4B9CD3?style=for-the-badge&logo=artificialintelligence&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-ML-FF6F00?style=for-the-badge&logo=machinelearning&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-DL-FF4500?style=for-the-badge&logo=deeplearning&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-NN-00CED1?style=for-the-badge&logo=neuralnetwork&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-DS-9C27B0?style=for-the-badge&logo=datascience&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-GenAI-FF1493?style=for-the-badge&logo=genai&logoColor=white)
 
 
 
