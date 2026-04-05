@@ -8,7 +8,9 @@
 
 ---
 
-### 👨‍💻 A Bit About Me
+### <div align="center">
+  <img src="campfire.gif" width="150" alt="Campfire GIF">
+</div> A Bit About Me
 
 I’m a B.Tech student specializing in **Computer Science and Engineering (Artificial Intelligence)** at ASE, Coimbatore. Passionate about leveraging technology to solve real-world problems, I enjoy diving deep into the architectures that make machines "think." 
 
@@ -39,8 +41,8 @@ I’m a B.Tech student specializing in **Computer Science and Engineering (Artif
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AoD-X-abhi&show_icons=true&theme=tokyonight&hide_border=true&title_color=4B9CD3" height="192px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AoD-X-abhi&layout=compact&theme=tokyonight&hide_border=true&title_color=4B9CD3" height="192px" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AoD-X-abhi&show_icons=true&theme=tokyonight&hide_border=true&title_color=4B9CD3&cache_seconds=86400" height="192" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AoD-X-abhi&layout=compact&theme=tokyonight&hide_border=true&title_color=4B9CD3&cache_seconds=86400" height="192" alt="Top Languages" />
 </div>
 
 <br>
