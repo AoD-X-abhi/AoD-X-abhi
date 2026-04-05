@@ -9,11 +9,11 @@
 ---
 
 <div align="center">
-  <h3>
-    <img src="PGEShoP/Fire.gif" width="200" alt="Campfire GIF"> 
-    A Bit About Me 
-    <img src="PGEShoP/Fire.gif" width="200" alt="Campfire GIF">
-  </h3>
+  <h2>
+    <img src="PGEShoP/Fire.gif" width="60" alt="Campfire GIF"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=40&pause=1000&color=4B9CD3&center=true&vCenter=true&width=380&lines=A+Bit+About+Me" alt="A Bit About Me" />
+    <img src="PGEShoP/Fire.gif" width="60" alt="Campfire GIF">
+  </h2>
 
   <p>
     I’m a B.Tech student specializing in <b>Computer Science and Engineering (Artificial Intelligence)</b> at ASE, Coimbatore.<br>
@@ -30,7 +30,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -47,7 +47,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AoD-X-abhi&show_icons=true&theme=tokyonight&hide_border=true&title_color=4B9CD3&cache_seconds=86400" height="192" alt="GitHub Stats" />
@@ -68,7 +68,7 @@
 
 ---
 
-### 📫 Let's Connect! Let's push the boundaries of intelligence together. 🌟🤝
+## 📫 Let's Connect! 🌟🤝
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abhishek-pandey-075854292"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
