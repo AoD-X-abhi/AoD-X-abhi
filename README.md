@@ -10,9 +10,9 @@
 
 <div align="center">
   <h2>
-    <img src="PGEShoP/Fire.gif" width="360" alt="Campfire GIF"> 
+    <img src="PGEShoP/Fire.gif" width="260" alt="Campfire GIF"> 
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=40&pause=1000&color=4B9CD3&center=true&vCenter=true&width=380&lines=A+Bit+About+Me" alt="A Bit About Me" />
-    <img src="PGEShoP/Fire.gif" width="360" alt="Campfire GIF">
+    <img src="PGEShoP/Fire.gif" width="260" alt="Campfire GIF">
   </h2>
 
   <p>
@@ -21,10 +21,10 @@
   </p>
   <br>
   <p>
-    <img src="PGEShoP/Fire.gif" width="95" alt="Fire bullet">&nbsp; <b>Currently working on:</b> Multimodal deep learning (like <i>GlycoTwin</i>), sentence embedding alignment across modalities, and AI-driven fitness systems (<i>StrengthSync</i>).<br><br>
-    <img src="PGEShoP/Fire.gif" width="95" alt="Fire bullet">&nbsp; <b>Currently exploring:</b> Advanced time series analysis (LSTMs, SARIMA), Computer Vision, and handling Big Data.<br><br>
-    <img src="PGEShoP/Fire.gif" width="95" alt="Fire bullet">&nbsp; <b>Open to collaborate on:</b> AI/ML architecture, Open Source projects, and complex data science challenges.<br><br>
-    <img src="PGEShoP/Fire.gif" width="95" alt="Fire bullet">&nbsp; <b>Ask me about:</b> Python, Neural Networks, NLP, and pulling insights from messy data.
+    <img src="PGEShoP/Fire.gif" width="45" alt="Fire bullet">&nbsp; <b>Currently working on:</b> Multimodal deep learning (like <i>GlycoTwin</i>), sentence embedding alignment across modalities, and AI-driven fitness systems (<i>StrengthSync</i>).<br><br>
+    <img src="PGEShoP/Fire.gif" width="45" alt="Fire bullet">&nbsp; <b>Currently exploring:</b> Advanced time series analysis (LSTMs, SARIMA), Computer Vision, and handling Big Data.<br><br>
+    <img src="PGEShoP/Fire.gif" width="45" alt="Fire bullet">&nbsp; <b>Open to collaborate on:</b> AI/ML architecture, Open Source projects, and complex data science challenges.<br><br>
+    <img src="PGEShoP/Fire.gif" width="45" alt="Fire bullet">&nbsp; <b>Ask me about:</b> Python, Neural Networks, NLP, and pulling insights from messy data.
   </p>
 </div>
 
