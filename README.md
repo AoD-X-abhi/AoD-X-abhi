@@ -10,9 +10,9 @@
 
 <div align="center">
   <h3>
-    <img src="PGEShoP/Fire.gif" width="45" alt="Campfire GIF"> 
+    <img src="PGEShoP/Fire.gif" width="200" alt="Campfire GIF"> 
     A Bit About Me 
-    <img src="PGEShoP/Fire.gif" width="45" alt="Campfire GIF">
+    <img src="PGEShoP/Fire.gif" width="200" alt="Campfire GIF">
   </h3>
 
   <p>
