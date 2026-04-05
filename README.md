@@ -8,16 +8,25 @@
 
 ---
 
-### <div align="center">
-  <img src="campfire.gif" width="150" alt="Campfire GIF">
-</div> A Bit About Me
+<div align="center">
+  <h3>
+    <img src="PGEShoP/Fire.gif" width="45" alt="Campfire GIF"> 
+    A Bit About Me 
+    <img src="PGEShoP/Fire.gif" width="45" alt="Campfire GIF">
+  </h3>
 
-I’m a B.Tech student specializing in **Computer Science and Engineering (Artificial Intelligence)** at ASE, Coimbatore. Passionate about leveraging technology to solve real-world problems, I enjoy diving deep into the architectures that make machines "think." 
+  <p>
+    I’m a B.Tech student specializing in <b>Computer Science and Engineering (Artificial Intelligence)</b> at ASE, Coimbatore.<br>
+    Passionate about leveraging technology to solve real-world problems, I enjoy diving deep into the architectures that make machines "think."
+  </p>
 
-- 🔭 **Currently working on:** Multimodal deep learning (like *GlycoTwin*), sentence embedding alignment across modalities, and AI-driven fitness systems (*StrengthSync*).
-- 🌱 **Currently exploring:** Advanced time series analysis (LSTMs, SARIMA), Computer Vision, and handling Big Data.
-- 👯 **Open to collaborate on:** AI/ML architecture, Open Source projects, and complex data science challenges.
-- 💬 **Ask me about:** Python, Neural Networks, NLP, and pulling insights from messy data.
+  <p>
+    🔭 <b>Currently working on:</b> Multimodal deep learning (like <i>GlycoTwin</i>), sentence embedding alignment across modalities, and AI-driven fitness systems (<i>StrengthSync</i>).<br>
+    🌱 <b>Currently exploring:</b> Advanced time series analysis (LSTMs, SARIMA), Computer Vision, and handling Big Data.<br>
+    👯 <b>Open to collaborate on:</b> AI/ML architecture, Open Source projects, and complex data science challenges.<br>
+    💬 <b>Ask me about:</b> Python, Neural Networks, NLP, and pulling insights from messy data.
+  </p>
+</div>
 
 ---
 
