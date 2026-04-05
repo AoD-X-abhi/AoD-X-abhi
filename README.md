@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4B9CD3&center=true&vCenter=true&width=800&lines=Hi+there!+%F0%9F%91%8B+I'm+Abhishek+Pandey;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Deep+Learning+Explorer+%F0%9F%A7%A0;Welcome+to+my+GitHub+Space!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=4B9CD3&center=true&vCenter=true&width=800&lines=Hi+there!+%F0%9F%91%8B+I'm+Abhishek+Pandey;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Deep+Learning+Explorer+%F0%9F%A7%A0;Welcome+to+my+GitHub+Space!+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 <div align="center">
   <h2>
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=40&pause=1000&color=4B9CD3&center=true&vCenter=true&width=380&lines=A+Bit+About+Me" alt="A Bit About Me" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&pause=1000&color=4B9CD3&center=true&vCenter=true&width=380&lines=A+Bit+About+Me" alt="A Bit About Me" />
   </h2>
 
   <p>
@@ -19,10 +19,10 @@
   </p>
   <br>
   <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="28" alt="Telescope">&nbsp; <b>Currently working on:</b> Multimodal deep learning (like <i>GlycoTwin</i>), sentence embedding alignment across modalities, and AI-driven fitness systems (<i>StrengthSync</i>).<br><br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20and%20body/Brain.png" width="28" alt="Brain">&nbsp; <b>Currently exploring:</b> Advanced time series analysis (LSTMs, SARIMA), Computer Vision, and handling Big Data.<br><br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28" alt="Handshake">&nbsp; <b>Open to collaborate on:</b> AI/ML architecture, Open Source projects, and complex data science challenges.<br><br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28" alt="Light Bulb">&nbsp; <b>Ask me about:</b> Python, Neural Networks, NLP, and pulling insights from messy data.
+    ➤ <b>Currently working on:</b> Multimodal deep learning (like <i>GlycoTwin</i>), sentence embedding alignment across modalities, and AI-driven fitness systems (<i>StrengthSync</i>).<br><br>
+    ➤ <b>Currently exploring:</b> Advanced time series analysis (LSTMs, SARIMA), Computer Vision, and handling Big Data.<br><br>
+    ➤ <b>Open to collaborate on:</b> AI/ML architecture, Open Source projects, and complex data science challenges.<br><br>
+    ➤ <b>Ask me about:</b> Python, Neural Networks, NLP, and pulling insights from messy data.
   </p>
 </div>
 
