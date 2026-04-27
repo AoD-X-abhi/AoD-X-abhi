@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=4B9CD3&center=true&vCenter=true&width=800&lines=Hi+there!+%F0%9F%91%8B+I'm+Abhishek+Pandey;AI,+ML%2FDL,+GenAI,+AI+Agents;Deep+Learning+Explorer+%F0%9F%A7%A0;Data+Analytics+with+AI;Web+Applications+(Python);Welcome+to+my+GitHub+Space!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=4B9CD3&center=true&vCenter=true&width=800&lines=Hi+there!+%F0%9F%91%8B+I'm+Abhishek+Pandey;AI,+ML%2FDL,+GenAI,+AI+Agents+Explorer+%F0%9F%A7%A0;Data+Analytics+with+AI;Web+Applications+(Python);Welcome+to+my+GitHub+Space!+%E2%9C%A8" alt="Typing SVG" />
 </div>
+
 
 
 <div align="center">
