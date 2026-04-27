@@ -15,17 +15,32 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&pause=1000&color=4B9CD3&center=true&vCenter=true&width=380&lines=A+Bit+About+Me" alt="A Bit About Me" />
   </h2>
 
+<p>
+  🚀 <b>AI & Intelligent Systems Enthusiast</b><br>
+  I am deeply interested in Artificial Intelligence, Machine Learning, and Deep Learning, with a growing focus on Generative AI and AI Agents. I enjoy exploring how intelligent systems can solve real-world problems, from predictive modeling to building autonomous, decision-making agents.
+</p>
+
+<br>
+
   <p>
-    I’m a B.Tech student specializing in <b>Computer Science and Engineering (Artificial Intelligence)</b> at ASE, Coimbatore.<br>
-    Passionate about leveraging technology to solve real-world problems, I enjoy diving deep into the architectures that make machines "think."
+    🧠 <b>Data-Driven Problem Solver</b><br>
+    I work extensively with Data Science and Data Analytics, using Python to extract insights, build models, and visualize data effectively. I enjoy working with structured and unstructured data, applying statistical techniques and machine learning algorithms to drive meaningful conclusions.
   </p>
+  
   <br>
+  
   <p>
-    ➤ <b>Currently working on:</b> Multimodal deep learning (like <i>GlycoTwin</i>), sentence embedding alignment across modalities, and AI-driven fitness systems (<i>StrengthSync</i>).<br><br>
-    ➤ <b>Currently exploring:</b> Advanced time series analysis (LSTMs, SARIMA), Computer Vision, and handling Big Data.<br><br>
-    ➤ <b>Open to collaborate on:</b> AI/ML architecture, Open Source projects, and complex data science challenges.<br><br>
-    ➤ <b>Ask me about:</b> Python, Neural Networks, NLP, and pulling insights from messy data.
+    💻 <b>Full-Stack & Backend Developer</b><br>
+    I have hands-on experience building applications using HTML, CSS, JavaScript, along with backend frameworks like Flask, FastAPI, and Django. I am particularly interested in designing scalable systems and developing efficient REST API architectures for real-world applications.
   </p>
+  
+  <br>
+  
+  <p>
+    🗄️ <b>Database & System Design Focus</b><br>
+    I work with databases like MySQL and PostgreSQL, focusing on efficient data storage, querying, and optimization. I’m interested in system design principles, ensuring applications are robust, scalable, and well-structured from backend to database level.
+  </p>
+
 </div>
 
 ---
