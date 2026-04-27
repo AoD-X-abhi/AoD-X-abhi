@@ -15,31 +15,32 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&pause=1000&color=4B9CD3&center=true&vCenter=true&width=380&lines=A+Bit+About+Me" alt="A Bit About Me" />
   </h2>
 
-<p>
-  🚀 <b>AI & Intelligent Systems Enthusiast</b><br>
+<p style="text-align: justify;">
+  🚀 <span style="font-size: 20px;"><b>AI & Intelligent Systems Enthusiast</b></span><br>
   I am deeply interested in Artificial Intelligence, Machine Learning, and Deep Learning, with a growing focus on Generative AI and AI Agents. I enjoy exploring how intelligent systems can solve real-world problems, from predictive modeling to building autonomous, decision-making agents.
 </p>
 
 <br>
 
-  <p>
-    🧠 <b>Data-Driven Problem Solver</b><br>
-    I work extensively with Data Science and Data Analytics, using Python to extract insights, build models, and visualize data effectively. I enjoy working with structured and unstructured data, applying statistical techniques and machine learning algorithms to drive meaningful conclusions.
-  </p>
-  
-  <br>
-  
-  <p>
-    💻 <b>Full-Stack & Backend Developer</b><br>
-    I have hands-on experience building applications using HTML, CSS, JavaScript, along with backend frameworks like Flask, FastAPI, and Django. I am particularly interested in designing scalable systems and developing efficient REST API architectures for real-world applications.
-  </p>
-  
-  <br>
-  
-  <p>
-    🗄️ <b>Database & System Design Focus</b><br>
-    I work with databases like MySQL and PostgreSQL, focusing on efficient data storage, querying, and optimization. I’m interested in system design principles, ensuring applications are robust, scalable, and well-structured from backend to database level.
-  </p>
+<p style="text-align: justify;">
+  🧠 <span style="font-size: 20px;"><b>Data-Driven Problem Solver</b></span><br>
+  I work extensively with Data Science and Data Analytics, using Python to extract insights, build models, and visualize data effectively. I enjoy working with structured and unstructured data, applying statistical techniques and machine learning algorithms to drive meaningful conclusions.
+</p>
+
+<br>
+
+<p style="text-align: justify;">
+  💻 <span style="font-size: 20px;"><b>Full-Stack & Backend Developer</b></span><br>
+  I have hands-on experience building applications using HTML, CSS, JavaScript, along with backend frameworks like Flask, FastAPI, and Django. I am particularly interested in designing scalable systems and developing efficient REST API architectures for real-world applications.
+</p>
+
+<br>
+
+<p style="text-align: justify;">
+  🗄️ <span style="font-size: 20px;"><b>Database & System Design Focus</b></span><br>
+  I work with databases like MySQL and PostgreSQL, focusing on efficient data storage, querying, and optimization. I’m interested in system design principles, ensuring applications are robust, scalable, and well-structured from backend to database level.
+</p>
+
 
 </div>
 
