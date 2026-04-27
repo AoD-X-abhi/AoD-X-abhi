@@ -50,8 +50,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,html,css,flask,fastapi,django,mysql,postgres,mongodb,kafka,spark,hadoop,git,github&theme=dark" alt="Tech Stack Core" />
-  </a>
+<img src="https://skillicons.dev/icons?i=py,java,js,html,css,flask,fastapi,django,mysql,postgres,mongodb,kafka,spark,hadoop,git,github,tensorflow,pytorch,sklearn,opencv,huggingface,azure,docker,pandas,numpy,linux,vscode&theme=dark" />  </a>
 </div>
 
 <br>
