@@ -50,15 +50,52 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,html,css,matlab,mongodb,kafka,github&theme=dark" alt="Tech Stack Core" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,html,css,flask,fastapi,django,mysql,postgres,mongodb,kafka,spark,hadoop,git,github&theme=dark" alt="Tech Stack Core" />
   </a>
 </div>
+
 <br>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-4B9CD3?style=for-the-badge&logo=artificialintelligence&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=machinelearning&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep_Learning-FF4500?style=for-the-badge&logo=deeplearning&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Science-9C27B0?style=for-the-badge&logo=datascience&logoColor=white" />
+  <!-- AI & Data -->
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-4B9CD3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF4500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Agents-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Science-9C27B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Analytics-03A9F4?style=for-the-badge" />
+
+  <br><br>
+
+  <!-- Programming & Web -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+  <br><br>
+
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+
+  <br><br>
+
+  <!-- Databases & Big Data -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+
+  <br><br>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div>
 
 ---
