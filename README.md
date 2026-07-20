@@ -102,9 +102,10 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AoD-X-abhi&show_icons=true&theme=tokyonight&hide_border=true&title_color=4B9CD3&cache_seconds=86400" height="192" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AoD-X-abhi&layout=compact&theme=tokyonight&hide_border=true&title_color=4B9CD3&cache_seconds=86400" height="192" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AoD-X-abhi&show_icons=true&theme=tokyonight&hide_border=true&title_color=4B9CD3" height="192" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AoD-X-abhi&layout=compact&theme=tokyonight&hide_border=true&title_color=4B9CD3" height="192" alt="Top Languages" />
 </div>
+
 
 <br>
 
