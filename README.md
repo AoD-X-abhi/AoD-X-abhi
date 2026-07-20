@@ -48,9 +48,12 @@
 
 ## Tech Stack & Tools
 
+## Tech Stack & Tools
+
 <div align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=py,java,js,html,css,flask,fastapi,django,mysql,postgres,mongodb,kafka,spark,hadoop,git,github,tensorflow,pytorch,sklearn,opencv,huggingface,azure,docker,pandas,numpy,linux,vscode&theme=dark" />  </a>
+    <img src="https://skillicons.dev/icons?i=py,java,js,html,css,flask,fastapi,django,mysql,postgres,mongodb,kafka,git,github,tensorflow,pytorch,sklearn,opencv,azure,docker,linux,vscode&theme=dark" />
+  </a>
 </div>
 
 <br>
@@ -94,8 +97,9 @@
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </div>
+
 
 ---
 
