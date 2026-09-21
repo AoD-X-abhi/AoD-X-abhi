@@ -105,14 +105,6 @@
 
 ## GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AoD-X-abhi&show_icons=true&theme=tokyonight&hide_border=true&title_color=4B9CD3" height="192" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AoD-X-abhi&theme=tokyonight&hide_border=true" height="192" alt="GitHub Streak" />
-
-</div>
-
 <br>
 
 <div align="center">
