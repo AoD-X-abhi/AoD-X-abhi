@@ -106,7 +106,11 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AoD-X-abhi&show_icons=true&theme=tokyonight&hide_border=true&title_color=4B9CD3" height="192" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=AoD-X-abhi&show_icons=true&theme=tokyonight&hide_border=true&title_color=4B9CD3" height="192" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AoD-X-abhi&theme=tokyonight&hide_border=true" height="192" alt="GitHub Streak" />
+
 </div>
 
 <br>
@@ -118,7 +122,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AoD-X-abhi&theme=react-dark&hide_border=true&area=true&custom_title=AoD-X-abhi%27s%20Contribution%20Graph&color=4B9CD3" width="100%" alt="Activity Graph" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AoD-X-abhi&theme=react-dark&hide_border=true&area=true&custom_title=AoD-X-abhi%27s%20Contribution%20Graph" width="100%" alt="GitHub Activity Graph" />
+
 </div>
 
 ---
